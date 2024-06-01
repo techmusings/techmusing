@@ -34,7 +34,7 @@ twitter:
 
 social:
   name: Techmusings                  # it will shows as the copyright owner in Footer
-  email: techmusings@gmail.com             # change to your email address
+  email: techmusings.mail@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/techmusings      # change to your twitter homepage
