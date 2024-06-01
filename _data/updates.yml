@@ -1,0 +1,153 @@
+-
+  filename: 'opentelemetry-target-allocator-troubleshooting'
+  lastmod: '2023-07-05 09:10:17 -0400'
+-
+  filename: 'opentelemetry-prometheus-metrics'
+  lastmod: '2023-07-03 07:53:23 -0400'
+-
+  filename: 'helm-kustomize'
+  lastmod: '2023-03-08 06:50:14 -0500'
+-
+  filename: 'understanding-prefernoschedule'
+  lastmod: '2023-02-23 06:34:22 -0500'
+-
+  filename: 'show-prometheus-targets'
+  lastmod: '2023-02-22 06:39:23 -0500'
+-
+  filename: 'authenticated-unauthenticated-istio-routes'
+  lastmod: '2023-02-01 08:35:39 -0500'
+-
+  filename: 'otel-part6-ecosystem'
+  lastmod: '2022-08-15 11:00:25 -0400'
+-
+  filename: 'otel-part5-propagation'
+  lastmod: '2022-08-15 10:43:22 -0400'
+-
+  filename: 'otel-part4-collector'
+  lastmod: '2022-08-15 10:43:22 -0400'
+-
+  filename: 'otel-part3-export'
+  lastmod: '2022-08-15 10:43:22 -0400'
+-
+  filename: 'otel-part2-instrumentation'
+  lastmod: '2022-08-15 11:00:25 -0400'
+-
+  filename: 'otel-part1-intro'
+  lastmod: '2022-08-15 10:45:20 -0400'
+-
+  filename: 'github-actions-manual-approval'
+  lastmod: '2022-03-28 07:57:23 -0400'
+-
+  filename: 'kubernetes-validating-webhook'
+  lastmod: '2021-11-29 09:19:24 -0500'
+-
+  filename: 'kubernetes-mutating-webhook'
+  lastmod: '2021-11-29 09:19:24 -0500'
+-
+  filename: 'dump-kubernetes-pod-logs-search-for-errors'
+  lastmod: '2021-11-09 06:00:49 -0500'
+-
+  filename: 'kubernetes-api-call-from-kubectl'
+  lastmod: '2021-08-30 10:43:25 -0400'
+-
+  filename: 'vim-search-all-files-including-dotfiles'
+  lastmod: '2021-08-26 09:08:05 -0400'
+-
+  filename: '20-questions-for-new-software-team'
+  lastmod: '2021-07-19 08:57:06 -0400'
+-
+  filename: 'log-analytics-expensive-part-2-save'
+  lastmod: '2021-07-06 11:00:33 -0400'
+-
+  filename: 'log-analytics-expensive-part-1-discovery'
+  lastmod: '2021-07-06 11:00:33 -0400'
+-
+  filename: 'systemd-journal-to-syslog-azure-monitoring'
+  lastmod: '2021-06-16 08:28:08 -0400'
+-
+  filename: 'quick-app-with-power-apps'
+  lastmod: '2021-05-31 09:16:00 -0400'
+-
+  filename: 'schedule-aks-start-stop-automatically'
+  lastmod: '2021-05-17 07:21:54 -0400'
+-
+  filename: 'linux-users-microsoft-azure'
+  lastmod: '2021-04-12 08:30:05 -0400'
+-
+  filename: 'current-azure-subscription-status'
+  lastmod: '2021-04-01 09:25:28 -0400'
+-
+  filename: 'find-azure-rbac-role-with-permission'
+  lastmod: '2021-03-15 08:54:39 -0400'
+-
+  filename: 'complete-binary-tree'
+  lastmod: '2021-02-22 10:37:08 -0500'
+-
+  filename: 'renew-key-vault-certificate'
+  lastmod: '2021-02-11 10:08:50 -0500'
+-
+  filename: 'python-in-shell-script'
+  lastmod: '2021-02-01 09:36:16 -0500'
+-
+  filename: 'azure-key-vault-lets-encrypt'
+  lastmod: '2021-02-11 10:08:50 -0500'
+-
+  filename: 'go-conditional-breakpoints'
+  lastmod: '2021-01-25 08:11:53 -0500'
+-
+  filename: 'query-azure-resource-tags'
+  lastmod: '2021-01-21 09:42:15 -0500'
+-
+  filename: 'github-actions-create-release-upload-artifacts'
+  lastmod: '2021-01-18 09:32:04 -0500'
+-
+  filename: 'debug-python-kubernetes'
+  lastmod: '2021-01-07 08:32:08 -0500'
+-
+  filename: 'be-good-at-referencing'
+  lastmod: '2020-12-11 06:54:47 -0500'
+-
+  filename: 'kubernetes-apiversion'
+  lastmod: '2020-11-30 07:54:01 -0500'
+-
+  filename: 'native-azure-logging-aks'
+  lastmod: '2020-11-02 05:48:50 -0500'
+-
+  filename: 'cheap-kubernetes-in-azure'
+  lastmod: '2021-04-05 10:02:55 -0400'
+-
+  filename: 'github-actions-multiline-strings'
+  lastmod: '2020-10-19 07:55:32 -0400'
+-
+  filename: 'golang-systemd-time'
+  lastmod: '2020-10-07 08:12:33 -0400'
+-
+  filename: 'get-azure-locations'
+  lastmod: '2020-09-16 21:26:51 -0400'
+-
+  filename: 'recovery-os-disk-azure-linux-vm'
+  lastmod: '2020-09-11 09:32:34 -0400'
+-
+  filename: 'simple-vs-oneshot-systemd-service'
+  lastmod: '2021-07-26 12:11:10 -0400'
+-
+  filename: 'why-feature-flags-are-great'
+  lastmod: '2020-06-15 20:12:17 -0400'
+-
+  filename: 'connect-k8s-apps-msi'
+  lastmod: '2020-08-20 11:34:16 -0400'
+-
+  filename: 'search-systemd-unit-files'
+  lastmod: '2020-05-22 11:36:50 -0400'
+-
+  filename: 'kubernetes-alwayspullimages'
+  lastmod: '2021-01-28 07:56:35 -0500'
+-
+  filename: 'logging-flask-gunicorn-the-manageable-way'
+  lastmod: '2020-06-01 11:48:53 -0400'
+-
+  filename: 'monitor-log-alert-cpu-throttling-on-linux'
+  lastmod: '2020-06-03 10:37:30 -0400'
+-
+  filename: 'running-debugging-azure-functions-linux'
+  lastmod: '2020-06-04 11:08:22 -0400'
